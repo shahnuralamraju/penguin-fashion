@@ -1,0 +1,91 @@
+h1,h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 5rem;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    color: rgb(75, 74, 74);
+    font-size: 18px;
+}
+header{
+    height: 100px;
+    background-color: #FEFFF4;
+    
+}
+
+section{
+   
+    margin-bottom: 40px;
+}
+.nav-item{
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+.first-section{
+    background-color: #FEFFF4;
+}
+.all-btn{
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 10px;
+    background-color:#291D59;
+}
+.header-first-column p{
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.tex-size-1{
+    color: #363857;
+}
+.tex-size-2{
+    color: #75C17E;
+}
+.side-row-div{
+height: 140px;
+border-radius: 20px;
+margin-top: 10px;
+margin-bottom: 10px;
+box-shadow: 5px 5px 20px rgb(238, 236, 236);
+}
+
+
+
+.imgbg{
+    padding: 20px;
+    background-color: rgb(233, 232, 232);
+    border-radius: 30px;
+}
+/* .imgbg img{
+    height: 350px;
+} */
+.bag-card{
+    border-radius: 20px;
+    border: 0;
+    box-shadow: 5px 5px 20px rgb(238, 236, 236);
+}
+
+.bag-card h5{
+    font-size:25px;
+    font-weight: 700;
+}
+.modal-section{
+    width: 100%;
+    height: 150px;
+    background-color:#FEFFF4 ;
+}
+.modal-div{
+    width: 350px;
+    margin: 10% auto;
+}
+
+@media (max-width: 992px) {
+    .side-row-div{
+        display: block;
+    }
+    
+  }
